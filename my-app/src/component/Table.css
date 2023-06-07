@@ -1,0 +1,22 @@
+.image_type{
+    width: 8%;
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 100%;
+  } 
+  
+  th, td {
+    max-width: 100%;
+    border: 1px solid red;
+     
+    border-radius: 5px;;
+    border: 1px solid gray;
+    text-align: left;
+    padding:  10px
+     
+  }
+  .squere_type{
+    border: 0.5px solid gray;
+  }

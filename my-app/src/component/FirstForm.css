@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: auto;
+}
+
+.form_container {
+    border: solid black;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.text_item {
+    margin: 10px 0px;
+    border-radius: 5px;
+    font-style: normal;
+    resize: none;
+}
+
+.Data {
+    top: -10px;
+}
+.sumit-type{
+     margin: 0;
+     resize: none;
+}
